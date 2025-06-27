@@ -7,6 +7,8 @@ An interactive text-based RPG powered by GPT acting as a Dungeon Master.
 - Character tracking
 - World state awareness
 - Dialogue and event resolution
+- ✅ Save and load your game progress
+- ✅ Procedural quest generation!
 
 ## Setup
 1. Clone the repo
@@ -30,4 +32,13 @@ An interactive text-based RPG powered by GPT acting as a Dungeon Master.
 
 > Your action: Talk to old man
 >> You approach Old Man. They say: 'Greetings, Hero. Beware the forest!'
+
+> Your action: save
+>> Game saved successfully.
+
+> Your action: load
+>> Game loaded successfully.
+
+> Your action: quest
+>> You meet a talking cat who asks you to deliver a message to the castle. If you succeed, you will earn a magic sword.
 ```
